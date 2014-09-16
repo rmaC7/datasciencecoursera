@@ -9,6 +9,8 @@ Today (which was some time last week) I successfully downloaded README.md from G
 
 Today, Tuesday, I successfully downloaded README.md from GitHub repository using the Git Bash interface. I am updating README.md from my Windows 8 laptop. 
 
+The following line I inserted from my Linux machine. So I suspect I have this editing Gitting and committing pretty much sewn up, if you're reading this, then you can see with your own eyes.
+
 I feel satisfaction because I resolved a conflict between these two versions of README. 
 
 ##Note 
