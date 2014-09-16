@@ -12,4 +12,5 @@ Today, Tuesday, I successfully downloaded README.md from GitHub repository using
 I feel satisfaction because I resolved a conflict between these two versions of README. 
 
 ##Note 
-###if you have two repositories going at once, make sure you pull from Git Hub before you edit a file that is also stored on a 2nd laptop. Do the pull, open, edit, save, then commit, then push.  
+* if you have two repositories going at once, make sure you pull from Git Hub before you edit a file that is also stored on a 2nd laptop. 
+* Do the pull, open, edit, save, then commit, then push.  
